@@ -22,6 +22,12 @@ const routes = [
         path: '/student/home',
         name: 'StudentHome',
         component: () => import('../views/StudentInterface')
+    },
+
+    {
+        path: '/messageBoard',
+        name: 'MessageBoard',
+        component: () => import('../views/MessageBoard')
     }
 ];
 

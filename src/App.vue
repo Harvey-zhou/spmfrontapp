@@ -48,7 +48,7 @@
             <router-link class="nav-link" to="/">成绩管理</router-link>
           </li>
           <li :class="classNonActive">
-            <router-link class="nav-link" to="">留言板</router-link>
+            <router-link class="nav-link" to="/messageBoard">留言板</router-link>
           </li>
           <li :class="classNonActive">
             <router-link class="nav-link" to="">网上测试</router-link>
