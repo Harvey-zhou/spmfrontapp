@@ -1,9 +1,5 @@
 <template>
-    <header class="header">
-        <div class="nav">
-            <router-link to="/">Home</router-link>
-        </div>
-    </header>
+
 </template>
 
 <script>
